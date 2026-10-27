@@ -162,6 +162,9 @@ For each circuit, record:
 
 ## 7. Expected Results (drop the screenshots of each equations circuit )
 
+Equation 1:
+<img width="587" height="604" alt="Screenshot_2026-10-27-161759" src="https://github.com/user-attachments/assets/609bd9d1-1c0d-4cb0-aa76-69eaf32c553a" />
+
 
 
 
