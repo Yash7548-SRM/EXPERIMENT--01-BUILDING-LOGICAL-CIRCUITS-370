@@ -173,6 +173,24 @@ Equation 1:
 <img width="740" height="590" alt="image" src="https://github.com/user-attachments/assets/ebff901b-5357-454b-914d-cb74ae16a7c4" />
 
 
+<img width="982" height="460" alt="image" src="https://github.com/user-attachments/assets/2e0e012d-bfd4-438c-8f56-9910ae8bd132" />
+
+
+<img width="821" height="592" alt="image" src="https://github.com/user-attachments/assets/9d6d5bfe-9a7f-4dd3-baec-0cfb18bf4aa4" />
+
+
+<img width="595" height="598" alt="image" src="https://github.com/user-attachments/assets/5d658f59-3a3a-4e52-8c2d-4c5eeccd3061" />
+
+<img width="762" height="600" alt="image" src="https://github.com/user-attachments/assets/f14e3311-ad44-4f34-9b5b-ab75b91424ac" />
+
+
+<img width="972" height="590" alt="image" src="https://github.com/user-attachments/assets/b564ac3b-020c-4a54-bb1f-d0978052b1f1" />
+
+
+<img width="706" height="599" alt="image" src="https://github.com/user-attachments/assets/2050f45a-6f46-4162-ab0d-07fbb325ffc6" />
+
+
+
 
 
  
